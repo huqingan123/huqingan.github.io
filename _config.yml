@@ -1,1 +1,6 @@
 theme: jekyll-theme-cayman
+
+deploy:
+  type: git
+  repo: git@github.com:huqingan123/huqingan123.github.io.git
+  branch: master
