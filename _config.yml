@@ -12,9 +12,9 @@ scheme: Pisces
 language: zh-Hans
 
 menu:
-  home: 
-  archives: archives
-  #about: about
-  #categories: categories
-  tags: tags
-  #commonweal: 404.html
+  home: /
+  archives: /archives
+  #about: /about
+  #categories: /categories
+  tags: /tags
+  #commonweal: /404.html
