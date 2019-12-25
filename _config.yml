@@ -4,3 +4,17 @@ deploy:
   type: git
   repo: git@github.com:huqingan123/huqingan123.github.io.git
   branch: master
+  
+#scheme: Muse
+#scheme: Mist
+scheme: Pisces
+
+language: zh-Hans
+
+menu:
+  home: 
+  archives: archives
+  #about: about
+  #categories: categories
+  tags: tags
+  #commonweal: 404.html
